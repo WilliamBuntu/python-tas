@@ -21,4 +21,4 @@ class buntu(Enum):
     active = 20
     inactive = 40
 
-print (buntu.active.value)
+print (buntu.active.value, buntu.inactive.value, buntu)
